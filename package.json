@@ -35,7 +35,7 @@
   "dependencies": {
     "@babel/preset-react": "^7.9.4",
     "antd": "^4.0.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
